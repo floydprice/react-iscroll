@@ -40,8 +40,8 @@
     "webpack-dev-server": "^1.10.1"
   },
   "peerDependencies": {
-    "react": ">=0.13.0 <=15.x",
-    "react-dom": ">=0.13.0 <=15.x"
+    "react": "^15.0.0",
+    "react-dom": "^15.0.0"
   },
   "scripts": {
     "compile": "babel -d dist/ src/",
